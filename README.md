@@ -13,3 +13,5 @@ Q-learning
 Multiagent systems
 # License:
 MIT License
+
+# To get the code, you can email me at callmemurtazah@gmail.com
